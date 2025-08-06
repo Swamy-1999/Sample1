@@ -7,8 +7,8 @@ if __name__ == "__main__":
     result = add_numbers(num1, num2)
     print(f"The sum is: {result}")
 
-def sub_number(c, d)
-    return c-d
+def sub_number(c, d):
+    return c - d
 
 if __name__ == "__main__":
     num1 = float(input("Enter first number: "))
