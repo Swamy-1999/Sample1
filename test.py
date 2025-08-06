@@ -13,5 +13,5 @@ def sub_number(c, d):
 if __name__ == "__main__":
     num3 = float(input("Enter first number: "))
     num4 = float(input("Enter second number: "))
-    result2 = add_numbers(num3, num4)
+    result2 = sub_number(num3, num4)
     print(f"The sub is: {result2}")
