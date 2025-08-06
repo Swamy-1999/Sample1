@@ -14,4 +14,4 @@ if __name__ == "__main__":
     num3 = float(input("Enter first number: "))
     num4 = float(input("Enter second number: "))
     result2 = add_numbers(num1, num2)
-    print(f"The sum is: {result2}")
+    print(f"The sub is: {result2}")
