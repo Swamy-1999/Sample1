@@ -6,3 +6,12 @@ if __name__ == "__main__":
     num2 = float(input("Enter second number: "))
     result = add_numbers(num1, num2)
     print(f"The sum is: {result}")
+
+def sub_number(c,d)
+    return c-d
+
+if __name__ == "__main__":
+    num1 = float(input("Enter first number: "))
+    num2 = float(input("Enter second number: "))
+    result2 = add_numbers(num1, num2)
+    print(f"The sum is: {result2}")
