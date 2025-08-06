@@ -7,7 +7,7 @@ if __name__ == "__main__":
     result = add_numbers(num1, num2)
     print(f"The sum is: {result}")
 
-def sub_number(c,d)
+def sub_number(c, d)
     return c-d
 
 if __name__ == "__main__":
